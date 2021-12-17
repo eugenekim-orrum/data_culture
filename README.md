@@ -26,4 +26,6 @@ Power data entry users can gradually gain access to more of the data pipeline (s
 - Don't want to overwhelm up front
 - More questions and suggestions should unlock deeper understanding
 
+Git Integration for change management and issue tracking
+
 Business users should know how data is being entered and how it becomes available to them for decisions.
